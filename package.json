@@ -1,0 +1,23 @@
+{
+  "name": "walrus-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wangxingkang",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "cross-spawn": "^7.0.3",
+    "ora": "^8.0.1",
+    "tsx": "^4.7.0"
+  },
+  "devDependencies": {
+    "@types/cross-spawn": "^6.0.6",
+    "@types/node": "^20.11.0",
+    "typescript": "^5.3.3"
+  }
+}
